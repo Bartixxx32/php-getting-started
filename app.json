@@ -6,7 +6,7 @@
 },
 {
   "scripts": {
-    "postdeploy": "bundle exec rake bootstrap",
+    "postdeploy": "echo test",
     "pr-predestroy": "bundle exec rake cleanup",
   }
 }
